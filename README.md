@@ -1,4 +1,4 @@
-# WealthOps - Intelligent Wealth Management Platform
+# Update to  WealthOps Enterprise - Intelligent Wealth Management Enterprise Platform 
 
 <div align="center">
 
